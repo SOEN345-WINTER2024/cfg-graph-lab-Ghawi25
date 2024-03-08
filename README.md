@@ -2,6 +2,8 @@
 
 Alexander El Ghaoui
 40200062
+# Question 1
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-Ghawi25/assets/115683516/e376c2ca-be59-4296-97d2-b90003e1b4ac)
 
 # Question 2
 TR: {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21}
